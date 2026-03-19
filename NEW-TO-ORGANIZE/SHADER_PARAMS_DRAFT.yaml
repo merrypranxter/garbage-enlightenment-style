@@ -1,0 +1,128 @@
+style_name: Garbage Enlightenment
+subtitle: Sweet Corruption Acid Cartoon Surrealism
+
+shader_params:
+morph_controls:
+morph_rate:
+description: Speed of symbolic transformation
+range: [0.0, 1.0]
+
+contour_slip:
+description: How much one contour slides into another identity
+range: [0.0, 1.0]
+identity_bleed:
+description: Degree to which forms imply multiple symbolic states at once
+range: [0.0, 1.0]
+substitution_frequency:
+description: How often one symbol reassigns itself into another
+range: [0.0, 1.0]
+reveal_lag:
+description: Delay before abstract fields resolve into glyph-like forms
+range: [0.0, 1.0]
+emergence_threshold:
+description: Threshold at which figures become readable from abstraction
+range: [0.0, 1.0]
+
+field_controls:
+band_count:
+description: Number of contour zones in topographic field mode
+range: [1, 20]
+field_warp:
+description: Strength of domain warping and contour deformation
+range: [0.0, 1.0]
+blob_pressure:
+
+description: Degree of blob swelling and threshold merging
+range: [0.0, 1.0]
+plasma_turbulence:
+description: Energy of liquid hallucination field motion
+range: [0.0, 1.0]
+contour_density:
+description: Visual compactness of contour line regions
+range: [0.0, 1.0]
+false_topography_strength:
+description: Strength of terrain-like field behavior
+range: [0.0, 1.0]
+
+cheapness_controls:
+dither_amount:
+description: Amount of low-fi pixel grain / dither
+range: [0.0, 1.0]
+pixel_swim:
+description: Screen-like digital instability
+range: [0.0, 1.0]
+compression_noise:
+description: Degree of cheap digital artifacting
+range: [0.0, 1.0]
+edge_jitter:
+description: Instability of silhouette edges
+
+range: [0.0, 1.0]
+lowfi_blur:
+description: Slight screen softness / cheapness
+range: [0.0, 1.0]
+threshold_shimmer:
+description: Flickery instability near symbolic emergence zones
+range: [0.0, 1.0]
+
+symbol_controls:
+eye_density:
+description: Probability of eye motif emergence
+range: [0.0, 1.0]
+mouth_probability:
+description: Probability of mouth motif emergence
+range: [0.0, 1.0]
+hand_reveal_rate:
+description: Likelihood of hand-glyph resolution from fields
+range: [0.0, 1.0]
+glyph_recursion:
+description: Degree of symbol-within-symbol repetition
+range: [0.0, 1.0]
+creature_seed_bias:
+description: How likely fields are to form pathetic creature silhouettes
+range: [0.0, 1.0]
+
+cute_symbol_infiltration:
+description: Likelihood of stars/hearts/rainbows entering the field
+range: [0.0, 1.0]
+
+sweet_corruption_controls:
+heart_density:
+description: Quantity of heart motifs
+range: [0.0, 1.0]
+star_density:
+description: Quantity of star motifs
+range: [0.0, 1.0]
+rainbow_bias:
+description: Strength of rainbow/arc motif behavior
+range: [0.0, 1.0]
+cute_to_gross_ratio:
+description: Balance of sweet symbols vs body weirdness
+range: [0.0, 1.0]
+toy_softness:
+description: Degree of toy-like sweetness in shape logic
+range: [0.0, 1.0]
+corruption_index:
+description: Strength of contamination applied to cute motifs
+range: [0.0, 1.0]
+
+tone_controls:
+patheticness:
+description: Degree of vulnerable / awkward creature energy
+range: [0.0, 1.0]
+ominousness:
+description: Degree of fake revelation dread
+range: [0.0, 1.0]
+parody_sacredness:
+description: Strength of mock-esoteric symbolic charge
+range: [0.0, 1.0]
+lsd_logic_emphasis:
+description: Strength of cartoonized LSD-hallucination structure
+range: [0.0, 1.0]
+
+notes:
+- "LSD logic emphasis does not mean generic trippy color increase."
+- "It means stronger symbolic reassignment, figure-pattern instability, and metamorphic
+continuity."
+- "Cheapness controls should remain active enough to prevent over-polished outputs."
+- "Abstract fields should preserve body-haunted emergence pressure."

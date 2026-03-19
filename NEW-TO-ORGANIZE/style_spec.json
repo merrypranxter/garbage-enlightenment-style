@@ -1,0 +1,235 @@
+Machine-readable core style schema for apps, prompting systems, or internal tooling.
+
+Expanded deluxe repo structure
+
+This is the deluxe monster with enough structure to feed apps, AI tools, shader systems, and
+future repos.
+lsd-style-repo/
+├── README.md
+├── LICENSE.md
+├── REPO_MAP.md
+├── 00_overview/
+│ ├── STYLE_OVERVIEW.md
+│ ├── NAMING_OPTIONS.md
+│ ├── STYLE_POSITIONING.md
+│ └── ERA_AND_CONTEXT.md
+├── 01_core_definition/
+│ ├── VISUAL_DNA.md
+│ ├── STYLE_PILLARS.md
+│ ├── DISTINCTIVE_TRAITS.md
+│ ├── STYLE_BOUNDARIES.md
+│ ├── ANTI_DRIFT.md
+│ └── FAILURE_MODES.md
+├── 02_visual_systems/
+│ ├── FORM_LANGUAGE.md
+│ ├── ANATOMY_AND_MUTATION.md
+│ ├── LINEWORK.md
+│ ├── SHAPE_GRAMMAR.md
+│ ├── COMPOSITION_GRAMMAR.md
+│ ├── SCALE_AND_SPACING.md
+│ └── MOTION_AND_LOOP_LOGIC.md
+├── 03_surface_and_optics/
+│ ├── PALETTE_SYSTEM.md
+│ ├── MATERIALS_AND_TEXTURES.md
+│ ├── LIGHTING_AND_OPTICS.md
+│ ├── NOISE_GRAIN_DITHER.md
+│ └── DIGITAL_ARTIFACT_LOGIC.md
+├── 04_content_libraries/
+│ ├── MOTIF_LIBRARY.md
+│ ├── CREATURE_ARCHETYPES.md
+│ ├── BODY_PART_LIBRARY.md
+│ ├── SYMBOLS_AND_OBJECTS.md
+│ └── BACKGROUND_TYPES.md
+├── 05_generation/
+│ ├── PROMPT_TEMPLATES.md
+│ ├── PROMPT_SNIPPETS.md
+│ ├── NEGATIVE_DRIFT_CONTROLS.md
+│ ├── IMAGE_GEN_RECIPES.md
+
+│ ├── ANIMATION_RECIPES.md
+│ └── SHADER_TRANSLATION_GUIDE.md
+├── 06_machine_readable/
+│ ├── style_spec.json
+│ ├── palette_presets.json
+│ ├── motif_tags.json
+│ ├── drift_flags.json
+│ └── shader_params.yaml
+├── 07_reference_tools/
+│ ├── COMPARISON_TABLES.md
+│ ├── NEIGHBOR_STYLES.md
+│ ├── WHAT_THIS_IS_NOT.md
+│ └── EVALUATION_CHECKLIST.md
+└── 08_dev_notes/
+├── APP_INTEGRATION_NOTES.md
+├── GENERATIVE_SYSTEM_NOTES.md
+└── TODO.md
+
+Why this deluxe version kicks ass
+Because it separates:
+●​ human-readable style philosophy​
+●​ artist-facing prompt language​
+●​ machine-readable specs​
+●​ anti-drift controls​
+●​ procedural/shader translation​
+●​ reusable libraries for motifs and palettes​
+
+That means this repo could become:
+●​ a style bible​
+●​ a prompt engine​
+
+●​ a shader behavior spec​
+●​ an app-ready internal style module​
+
+My naming suggestions for the style itself
+You can still call it “LSD style” informally, but for the repo I’d probably give it a more precise
+handle. Options:
+●​ LSD Cartoon Grotesque​
+●​ Candy Grotesque Psychedelia​
+●​ Blob Mutant Psychedelia​
+●​ Acid Cartoon Surrealism​
+●​ Neon Grotesque Dream Cartoon​
+●​ Mutant Pop Psychedelia​
+●​ Cheap Hallucination Cartoon​
+●​ Psycho-Blob Cartoon​
+●​ Candy Rot Surrealism​
+●​ Goo-Glyph Psychedelia​
+
+My current best pick:
+Acid Cartoon Grotesque
+Because it captures:
+
+●​ acid color / psychedelic logic​
+●​ cartoon flatness​
+●​ bodily surreal-grotesque mutation​
+
+My recommendation right now
+I’d do the expanded deluxe repo, but maybe trim a few files if you want less bullshit. This style
+has enough moving parts that a tiny repo will get muddy fast.
+Also: I think the repo needs one extra angle beyond “LSD.”
+It needs a deliberate section for the cuteness ↔ grotesque balance, because that tension is the
+whole damn spell.
+So the next move is:
+we decide
+1.​ what to call the repo/style, and​
+2.​ whether you want the minimum or deluxe structure as the base.​
+
+My vote:
+Repo name: acid-cartoon-grotesque
+Structure: deluxe, with zero mercy.
+
+Yep — this helped. I can see the motion logic a lot better now, and you were right that the
+animation is a core part of the style, not just decoration.
+
+What this clip adds is that the style doesn’t just look mutated — it animates by metamorphosis.
+The movement language is basically a whole second style layer.
+
+What I can see in the motion
+The animation grammar looks like this:
+
+1. Identity-sliding morphs
+Things don’t just move from A to B. They become B while still half-being A.
+So instead of:
+●​ object moves​
+●​ cut​
+●​ new object appears​
+
+it does:
+●​ contours stretch​
+●​ masses redistribute​
+●​ one symbol leaks into another​
+●​ eyes become mouths, mouths become blobs, blobs become creatures, creatures
+become patterns​
+
+That is huge.
+
+2. Contour inheritance
+A new thing often grows out of the same outline skeleton as the last thing.
+Meaning:
+
+●​ the silhouette mutates rather than resets​
+●​ shape edges act like elastic boundaries​
+●​ forms seem to “discover” other forms already hidden inside them​
+
+That “finding other things in the thing” thing you described — yes, that is absolutely visible.
+
+3. Cheap-loop dream motion
+The movement is not polished character animation. It’s more like:
+●​ low-frame morphing​
+●​ symbolic substitution​
+●​ shape reincarnation​
+●​ looping transformation cycles​
+●​ motion that feels inevitable rather than physically correct​
+
+It has that bootleg sacred cartoon GIF from another dimension quality.
+
+4. Swarm / cluster intelligence
+Some scenes behave less like one subject and more like a field of repeating mutant units:
+●​ clustered heads​
+●​ circular arrangements​
+●​ repeating icons​
+●​ masses that pulse through local variation​
+
+That gives it a hive / mandala / glyph-wheel feeling, but still dumb and bodily, not elegant.
+
+5. Figure-to-pattern leakage
+This is important as hell:
+sometimes the animation is figurative,
+sometimes abstract,
+and sometimes it bleeds between the two.
+A creature becomes a pattern.
+A pattern becomes a face.
+A symbol becomes a body part.
+A body part becomes a looping decorative unit.
+That means your repo really does need:
+●​ figurative animation grammar​
+●​ abstract shader-field grammar​
+●​ and the bridge between them​
+
+6. Movement is more like soft replacement than locomotion
+Even when stuff “walks” or “moves,” the style seems less interested in realistic motion arcs and
+more interested in:
+●​ phase shifts​
+●​ substitution​
+●​ wobble​
+●​ smear​
+●​ internal reconfiguration​
+●​ unfolding hidden forms​
+
+So the true verb set is not:
+run, turn, jump
+It’s:
+melt, reveal, swap, erupt, bloom, coil, leak, pulse, reincarnate, molt
+That’s the shit.
+
+What this means for the repo
+We definitely need a real motion file now. Not optional.
+
+New core motion pillars
+Metamorphic Continuity
+Forms should transform continuously into adjacent symbolic states rather than cutting cleanly
+between unrelated states.
+
+Hidden-Form Revelation
+Animation should feel like one image contains the seed of the next image.
+
+Symbolic Substitution
+Movement is often identity change, not physical travel.
+
+Looped Dream Recurrence
+Cycles feel trance-like, recursive, and slightly cheap in a good way.
+
+Elastic Contour Logic
+Outlines bend, stretch, and redistribute mass while preserving a loose family resemblance.
+
+Pattern-Figure Permeability
+Abstract fields and cartoon beings can mutate into each other.
+
+We should add/rename these files
+I’d now want these in the repo for sure:
+●​ MOTION_AND_LOOP_BEHAVIOR.md​
+●​ METAMORPHIC_ANIMATION_GRAMMAR.md​
+●​ PATTERN_TO_FIGURE_TRANSITIONS.md​
+●​ GLSL_HALLUCINATION_FIELDS.md​
+●​ SYMBOLIC_SUBSTITUTION_RULES.md​
+
+What each would cover
